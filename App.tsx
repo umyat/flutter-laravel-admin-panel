@@ -1,0 +1,1 @@
+export default function App() { return <div className='text-center p-4'>Admin Panel UI is working!</div>; }
